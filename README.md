@@ -1,24 +1,6 @@
-# README
+Challange from Bootcamp<br />
+Rails Basics<br />
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Build a word from grid.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The word is valid according to the grid and is an English word.
